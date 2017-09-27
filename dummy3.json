@@ -1,5 +1,13 @@
 {
   'name': 'foobar',
   'id': 3,
-  'description': 'some test data for demo purposes'
+  'description': 'some test data for demo purposes',
+  items: [
+    {
+      'label': 'Item1'
+    },
+    {
+      'label': 'Item2'
+    }
+  ]
 }
