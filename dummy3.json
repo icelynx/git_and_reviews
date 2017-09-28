@@ -1,7 +1,7 @@
 {
   'name': 'foobar',
   'id': 3,
-  'description': 'some test data for demo purposes',
+  'description': ' asdasdasd some test data for demo purposes',
   items: [
     {
       'label': 'Item1'
