@@ -1,5 +1,6 @@
 {
   'name': 'dummy',
   'id': 2,
-  'description': 'parallel edit'
+  'description': 'parallel edit',
+  'accountType': 'private'
 }
