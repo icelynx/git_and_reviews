@@ -2,5 +2,6 @@
   'name': 'dummy',
   'id': 2,
   'description': 'parallel edit',
-  'accountType': 'private'
+  'accountType': 'private',
+  'parentId': 1
 }
