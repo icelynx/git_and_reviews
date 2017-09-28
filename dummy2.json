@@ -1,6 +1,5 @@
 {
   'name': 'dummy',
   'id': 2,
-  'description': 'some test data for demo purposes testing',
-  'accountType': 'public'
+  'description': 'parallel edit'
 }
