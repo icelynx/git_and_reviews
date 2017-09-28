@@ -2,5 +2,5 @@
   'name': 'testdata',
   'id': 1,
   'description': 'Testdata',
-  'type': 'active'
+  'type': 'passive'
 }
